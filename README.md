@@ -1,10 +1,6 @@
-<p align="center">
-	<a target="_blank" href="https://github.com/noowz/endless-nightmare" title="Endless Nightmare">
-		ENDLESS NIGHTMARE
-	</a>
-</p>
-
----
+<a target="_blank" href="https://github.com/noowz/endless-nightmare" title="Endless Nightmare">
+	<h1 align="center">ENDLESS NIGHTMARE</h1>
+</a>
 
 <p align="center">
 	<a href="#-about">About</a> |
