@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Emilys+Candy&family=Inter:wght@400;700&display=swap');
+
+* {
+	margin: 0;
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+body {
+	text-align: center;
+	padding-top: 160px;
+	background-image: url(../img/background.svg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100vh;
+	font-family: 'Inter', sans-serif;
+}
+
+h3 {
+	font-size: 16px;
+	line-height: 19px;
+	color: #FFFFFF;
+}
+
+h3 span {
+	color: #FFC700;
+}
+
+h1 {
+	color: #FFC700;
+	font-weight: 400;
+	font-size: 64px;
+	line-height: 80px;
+	font-family: 'Emilys Candy', cursive;
+}
+
+p {
+	font-size: 20px;
+	line-height: 24px;
+	margin-bottom: 72px;
+	color: #FFFFFF;
+	opacity: .7;
+}
+
+a,
+.btn-secondary {
+	text-decoration: none;
+	padding: 12px 32px;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 24px;
+	color: #FFFFFF;
+	opacity: .6;
+	transition: .4s;
+}
+
+.btn-primary {
+	border: solid;
+	border-color: #FFC700;
+	opacity: 1;
+}
+
+.btn-primary:hover {
+	color: #000000;
+	background-color: #FFC700;
+}
+
+.btn-secondary:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+	opacity: 1;
+}
+
+@media (max-width: 767px) {
+	h1 {
+		font-size: 48px;
+		line-height: 60px;
+	}
+
+	p {
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	a {
+		font-size: 18px;
+		line-height: 22px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+	h1 {
+		font-size: 56px;
+		line-height: 70px;
+	}
+
+	p {
+		font-size: 18px;
+		line-height: 22px;
+		margin-bottom: 48px;
+	}
+
+	a {
+		font-size: 18px;
+		line-height: 22px;
+	}
+}
+
+@media (min-width: 1024px) {
+	h1 {
+		font-size: 64px;
+		line-height: 80px;
+	}
+
+	p {
+		font-size: 20px;
+		line-height: 24px;
+		margin-bottom: 72px;
+	}
+}
