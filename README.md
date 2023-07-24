@@ -28,19 +28,11 @@ This project is a Landing Page of a fictional horror game called Endless Nightma
 <b>🟢 Link:</b> <a target="_blank" href="https://endless-nightmare.pages.dev" title="Endless Nightmare">https://endless-nightmare.pages.dev</a>
 
 <div align="center">
-<img src="" alt="Desktop (Dark Theme)" draggable="false">
+<img src="https://i.imgur.com/NhQ4nxi.jpg" alt="Desktop" draggable="false">
 
 <br>
 
-<img src="" alt="Desktop (Light Theme)" draggable="false">
-
-<br>
-
-<img src="" alt="Mobile (Dark Theme)" draggable="false">
-
-<br>
-
-<img src="" alt="Mobile (Light Theme)" draggable="false">
+<img src="https://i.imgur.com/hpetkQq.jpg" alt="Mobile" draggable="false">
 </div>
 
 ---
