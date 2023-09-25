@@ -19,7 +19,7 @@ This project is a Landing Page of a fictional horror game called Endless Nightma
 
 ## **🖼 Preview**
 
-<b>🟢 Link:</b> <a target="_blank" href="https://endless-nightmare.pages.dev" title="Endless Nightmare">https://endless-nightmare.pages.dev</a>
+<b>🟢 Link:</b> <a target="_blank" href="https://noowz-endless-nightmare.vercel.app" title="Endless Nightmare">https://noowz-endless-nightmare.vercel.app</a>
 
 <div align="center">
 <img src="https://i.imgur.com/NhQ4nxi.jpg" alt="Desktop" draggable="false">
